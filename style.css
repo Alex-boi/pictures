@@ -1,0 +1,42 @@
+body{
+ color: white;  
+}
+#welcome{
+    text-align: center;
+    background-color:#E1BEE7; 
+}
+#cf{
+    height:400px;
+    width:400px;
+}
+#grid{
+    background-color:#B3E5FC;
+    text-align: center;
+}
+#slide{
+    text-align: center;
+    background-color:#FFF9C4; 
+}
+.my_nav_bar{
+    position:sticky;
+    top:0px;
+    z-index: 999;
+}
+#mynavbar{
+background-color:black;
+}
+#j{
+    height:200px;
+    width:400px;
+}
+#d{
+    height:300px;
+    width:500px;
+}
+#text{
+    color: black;
+}
+#blst{
+    height:300px;
+    width:200px;
+}
